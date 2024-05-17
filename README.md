@@ -38,7 +38,7 @@ I'm a passionate software developer based in the UK with a focus on:
 
 ## 🏆 Achievements & Awards
 
-- **Top Performer Award** at Bakkaz** (2022-2024)
+- **Top Performer Award at Bakkaz** (2022-2024)
 - **Contribuitor at pub.dev** (2022)
 - **Outstanding Contribution to Kaggle & MLH** (2021-2024)
 
