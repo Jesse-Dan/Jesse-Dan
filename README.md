@@ -93,7 +93,7 @@ Feel free to reach out if you’d like to discuss:
 ### 📫 How to Reach Me
 - **Email**: [your.email@example.com](mailto:jessedan160@gmail.com)
 - **LinkedIn**: [YourLinkedIn](linkedin.com/in/sir-jesse-dan-amuda-99895322a/)
-- **Twitter**: [@YourTwitter](https://twitter.com/YourTwitter)
+- **Twitter**: [@YourTwitter](https://x.com/jessedan160)
 
 ---
 
