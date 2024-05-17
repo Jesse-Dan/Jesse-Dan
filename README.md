@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Jesse Oyofo Dan-Amuda👋
 
 ![Profile views](https://gpvc.arturio.dev/Jesse-Dan)
 ![GitHub followers](https://img.shields.io/github/followers/Jesse-Dan?label=Followers&style=social)
@@ -92,7 +92,7 @@ Feel free to reach out if you’d like to discuss:
 
 ### 📫 How to Reach Me
 - **Email**: [your.email@example.com](mailto:jessedan160@gmail.com)
-- **LinkedIn**: [YourLinkedIn](https://www.linkedin.com/in/YourLinkedIn)
+- **LinkedIn**: [YourLinkedIn](linkedin.com/in/sir-jesse-dan-amuda-99895322a/)
 - **Twitter**: [@YourTwitter](https://twitter.com/YourTwitter)
 
 ---
