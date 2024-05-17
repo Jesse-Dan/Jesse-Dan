@@ -1,6 +1,5 @@
 # Hi there, I'm Jesse Oyofo Dan-Amuda👋
 
-![Profile views](https://gpvc.arturio.dev/Jesse-Dan)
 ![GitHub followers](https://img.shields.io/github/followers/Jesse-Dan?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Jesse-Dan?label=Stars&style=social)
 
