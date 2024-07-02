@@ -44,20 +44,6 @@ I'm a passionate software developer based in the UK with a focus on:
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jesse-Dan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesse-Dan&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jesse-Dan&theme=radical)
-
----
-
-## 🔥 Contribution Graph
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jesse-Dan&theme=react-dark&area=true)](https://github.com/Jesse-Dan)
-
----
-
 ## 🚀 Latest Projects
 
 ### Yafpay
