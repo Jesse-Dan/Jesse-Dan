@@ -57,7 +57,7 @@ A platform connecting students with campus services.
 - [Repository](https://github.com/Jesse-Dan/campus-app)
 
 ### Dart Utility Library
-A comprehensive Dart library for X functionality.
+A comprehensive Dart library for Navigation functionality.
 - **Technologies**: Dart
 - [Repository](https://github.com/Jesse-Dan/go_navigator)
 
