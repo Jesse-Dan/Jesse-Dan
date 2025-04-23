@@ -65,8 +65,8 @@ A comprehensive Dart library for Navigation functionality.
 
 ## 🌱 I’m Currently Learning
 
-- Advanced Kotlin / Springboot techniques
-- Fintech solutions and security and Data algorithyms
+- Advanced C++ Embedded system technologies 
+- Ios Native development 
 - Cloud-based application deployment
 
 ---
