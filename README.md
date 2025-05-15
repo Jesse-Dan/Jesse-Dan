@@ -1,94 +1,83 @@
-# Hi there, I'm Jesse Oyofo Dan-Amuda👋
+# 👋 Hi, I'm Jesse Oyofo Dan-Amuda
 
-![GitHub followers](https://img.shields.io/github/followers/Jesse-Dan?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/Jesse-Dan?label=Stars&style=social)
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate software developer based in the UK with a focus on:
-- **Backend Development**: Creating robust, scalable APIs using Laravel and Spring Boot
-- **Mobile Development**: Building cross-platform mobile applications with Flutter and Kotlin
-- **Full-Stack Development**: Integrating front-end and back-end technologies for seamless user experiences
+![Followers](https://img.shields.io/github/followers/Jesse-Dan?label=Followers&style=social) 
+![Stars](https://img.shields.io/github/stars/Jesse-Dan?label=Stars&style=social)
 
 ---
 
-## 🛠️ Skills & Technologies
+## 💼 About Me
 
-### Languages & Frameworks
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+I'm a UK-based full-stack engineer with a strong focus on:
+- **Backend**: Laravel, Spring Boot, Nest.js, Ktor, Dart Frog
+- **Mobile**: Flutter, Kotlin, KMM (Kotlin Multiplatform), iOS Native
+- **Frontend**: React, Vue
+- **AI & DevOps**: Agent Dev, Docker, CI/CD, Cloud Deployment
 
 ---
 
-## 🏆 Achievements & Awards
+## ⚙️ Core Tech & Tools
 
-- **Top Performer Award at Bakkaz** (2022-2024)
-- **Contribuitor at pub.dev** (2022)
-- **Outstanding Contribution to Kaggle & MLH** (2021-2024)
+**Languages & Frameworks**  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
----
+**Backend**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Dart Frog](https://img.shields.io/badge/Dart_Frog-02569B?style=flat&logo=dart&logoColor=white)
 
-## 🚀 Latest Projects
-
-### Yafpay
-A fintech mobile app providing seamless transaction solutions.
-- **Technologies**: Flutter, Dart, Firebase
-- [Repository](https://github.com/Jesse-Dan/yafpay)
-
-### Campus App
-A platform connecting students with campus services.
-- **Technologies**: PHP, Laravel, MySQL
-- [Repository](https://github.com/Jesse-Dan/campus-app)
-
-### Dart Utility Library
-A comprehensive Dart library for Navigation functionality.
-- **Technologies**: Dart
-- [Repository](https://github.com/Jesse-Dan/go_navigator)
+**Tools & Platforms**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 🌱 I’m Currently Learning
+## 🚀 Notable Projects
 
-- Advanced C++ Embedded system technologies 
-- Ios Native development 
-- Cloud-based application deployment
+**RecenthPosts**  
+Fintech app for seamless transactions.  
+_Stack_: Flutter · PHP (Microservices)  
+🔗 [View Website](http://recenthpost.com)
 
----
+**Campus App**  
+Student hub with service integrations.  
+_Stack_: Laravel · MySQL  
+🔗 [View Repo](https://github.com/Jesse-Dan/campus-app)
 
-## 💬 Let's Connect
-
-Feel free to reach out if you’d like to discuss:
-- Collaborations
-- Open source contributions
-- Job opportunities
-
-### 📫 How to Reach Me
-- **Email**: [Mail](mailto:jessedan160@gmail.com)
-- **LinkedIn**: [LinkedIn](linkedin.com/in/sir-jesse-dan-amuda-99895322a/)
-- **Twitter**: [Twitter](https://x.com/jessedan160)
+**go_navigator**  
+Dart library for intuitive route management.  
+🔗 [View Repo](https://github.com/Jesse-Dan/go_navigator)
 
 ---
 
-## ✍️ Quote of the Day
+## 🔭 Currently Exploring
+
+- Embedded Systems with C++
+- AI Agent Development & LangChain
+- iOS Native & Kotlin Multiplatform
+- DevOps pipelines for scalable backend systems
+
+---
+
+## 🤝 Connect with Me
+
+- [Email](mailto:jessedan160@gmail.com)  
+- [LinkedIn](https://linkedin.com/in/sir-jesse-dan-amuda-99895322a/)  
+- [Twitter/X](https://x.com/jessedan160)
+
+---
+
+## 💬 Daily Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-⭐️ From Jesse-Dan(https://github.com/Jesse-Dan)
+[Jesse-Dan](https://github.com/Jesse-Dan)
