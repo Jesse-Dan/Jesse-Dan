@@ -39,24 +39,6 @@ I'm a UK-based full-stack engineer with a strong focus on:
 
 ---
 
-## 🚀 Notable Projects
-
-**RecenthPosts**  
-Fintech app for seamless transactions.  
-_Stack_: Flutter · PHP (Microservices)  
-🔗 [View Website](http://recenthpost.com)
-
-**Campus App**  
-Student hub with service integrations.  
-_Stack_: Laravel · MySQL  
-🔗 [View Repo](https://github.com/Jesse-Dan/campus-app)
-
-**go_navigator**  
-Dart library for intuitive route management.  
-🔗 [View Repo](https://github.com/Jesse-Dan/go_navigator)
-
----
-
 ## 🔭 Currently Exploring
 
 - Embedded Systems with C++
