@@ -7,7 +7,7 @@
 
 ## 💼 About Me
 
-I'm a UK-based full-stack engineer with a strong focus on:
+I'm a full-stack engineer with a strong focus on:
 - **Backend**: Laravel, Spring Boot, Nest.js, Ktor, Dart Frog
 - **Mobile**: Flutter, Kotlin, KMM (Kotlin Multiplatform), iOS Native
 - **Frontend**: React, Vue
