@@ -1,65 +1,55 @@
-# 👋 Hi, I'm Jesse Oyofo Dan-Amuda
+# I'm Jesse O. Dan-Amuda
 
-![Followers](https://img.shields.io/github/followers/Jesse-Dan?label=Followers&style=social) 
-![Stars](https://img.shields.io/github/stars/Jesse-Dan?label=Stars&style=social)
+![Followers](https://img.shields.io/github/followers/Jesse-Dan?style=social)
+![Stars](https://img.shields.io/github/stars/Jesse-Dan?style=social)
 
 ---
 
 ## 💼 About Me
 
-I'm a full-stack engineer with a strong focus on:
-- **Backend**: Laravel, Spring Boot, Nest.js, Ktor, Dart Frog
-- **Mobile**: Flutter, Kotlin, KMM (Kotlin Multiplatform), iOS Native
-- **Frontend**: React, Vue
-- **AI & DevOps**: Agent Dev, Docker, CI/CD, Cloud Deployment
+Full-stack engineer building scalable backends, cross-platform mobile apps, and practical AI systems.
+
+* **Backend:** Laravel, Spring Boot, Nest.js, Ktor, Dart Frog
+* **Mobile:** Flutter, Kotlin, KMM, iOS
+* **Frontend:** React, Vue
+* **AI & DevOps:** AI Agents, Docker, CI/CD, Cloud Deployments
 
 ---
 
-## ⚙️ Core Tech & Tools
+## ⚙️ Tech Stack
 
-**Languages & Frameworks**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+**Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-007396?logo=java\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B\&logoColor=white)
 
-**Backend**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Dart Frog](https://img.shields.io/badge/Dart_Frog-02569B?style=flat&logo=dart&logoColor=white)
+**Backend**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs\&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-0095D5?logo=kotlin\&logoColor=white)
 
-**Tools & Platforms**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 🔭 Currently Exploring
-
-- Embedded Systems with C++
-- AI Agent Development & LangChain
-- iOS Native & Kotlin Multiplatform
-- DevOps pipelines for scalable backend systems
+**Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
 
 ---
 
-## 🤝 Connect with Me
+## 🔭 Current Interests
 
-- [Email](mailto:jessedan160@gmail.com)  
-- [LinkedIn](https://linkedin.com/in/sir-jesse-dan-amuda-99895322a/)  
-- [Twitter/X](https://x.com/jessedan160)
-
----
-
-## 💬 Daily Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+* Embedded C++
+* AI Agent Systems
+* iOS Native & Kotlin Multiplatform
+* DevOps pipelines for high-scale apps
 
 ---
 
-[Jesse-Dan](https://github.com/Jesse-Dan)
+## 🤝 Connect
+
+**Email:** [jessedan160@gmail.com](mailto:jessedan160@gmail.com)
+**LinkedIn:** [Jesse O. Dan-Amuda](https://www.linkedin.com/in/jesse-dan/)
+**X:** @jessedan160
