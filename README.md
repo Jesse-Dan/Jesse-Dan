@@ -39,9 +39,9 @@ Here are some notable projects I've worked on:
 
 | Project | Description | Tech Stack | Stars | Forks |
 |---------|-------------|-----------|-------|-------|
-| **Tuul** | Build smarter AI agents and deploy them in minutes. | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) | ⭐ XX | 🔀 XX |
-| **Tradelenda** | Digital Bank for SMEs | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ⭐ XX | 🔀 XX |
-| **Wallx / Airlite Pay** | Cross-platform fintech mobile app used in Canada & US | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) | ⭐ XX | 🔀 XX |
+| **Tuul** | Build smarter AI agents and deploy them in minutes. | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) | ⭐ 4 | 🔀 1 |
+| **Tradelenda** | Digital Bank for SMEs | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ⭐ 0 | 🔀 0 |
+| **Wallx / Airlite Pay** | Cross-platform fintech mobile app used in Canada & US | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) | ⭐ 0 | 🔀 0 |
 
 ---
 
